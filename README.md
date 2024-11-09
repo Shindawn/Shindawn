@@ -3,7 +3,7 @@
 
 🌟 Currently working on: Construct Ease - an attendance and payroll processing solution for construction projects
 
-🔧 Languages & Tools: C#, Dart, VB.NET, HTML, CSS, JavaScript, PHP, 
+🔧 Languages & Tools: C#, Tailwind, Figma, JavaScript, PHP, Python
 
 🚀 Passionate about building innovative solutions like PostPet - a pet-sharing platform, and AR anatomy visualizer for medical education
 
