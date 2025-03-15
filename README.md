@@ -1,12 +1,6 @@
 👋 Hi, I'm Lescy!
 💻 3rd Year IT Student | Tech Enthusiast
-
-🌟 Currently working on: Construct Ease - an attendance and payroll processing solution for construction projects
-
-🔧 Languages & Tools: C#, Tailwind, Figma, JavaScript, PHP, Python
-
-🚀 Passionate about building innovative solutions like PostPet - a pet-sharing platform, and AR anatomy visualizer for medical education
-
+🚀 Passionate about building innovative solutions.
 🌱 Learning and experimenting with new technologies
 
 📫 Connect with me!
