@@ -1,6 +1,9 @@
 👋 Hi, I'm Lescy!
+
 💻 3rd Year IT Student | Tech Enthusiast
+
 🚀 Passionate about building innovative solutions.
+
 🌱 Learning and experimenting with new technologies
 
 📫 Connect with me!
