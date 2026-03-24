@@ -4,7 +4,7 @@
 - 🔭 Student Intern at **DPWH Catanduanes**
 - 🌱 I’m currently learning **Full Stack Development** (Focusing on React & Node.js)
 - 💬 Ask me about **Web Development, UI/UX, or tech trends**
-- 📫 How to reach me: [caadlawony@gmail.com](mailto:caadlawony@gmail.com)
+- 📫 Reach me at: [caadlawony@gmail.com](mailto:caadlawony@gmail.com)
 
 ### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
