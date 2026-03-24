@@ -1,7 +1,7 @@
 # Hi there, I'm Shin! 👋
 
 ### ⚡ A Little About Me
-- 🔭 I’m currently looking for **Internship / OJT opportunities!**
+- 🔭 Student Intern at **DPWH Catanduanes**
 - 🌱 I’m currently learning **Full Stack Development** (Focusing on React & Node.js)
 - 💬 Ask me about **Web Development, UI/UX, or tech trends**
 - 📫 How to reach me: [caadlawony@gmail.com](mailto:caadlawony@gmail.com)
