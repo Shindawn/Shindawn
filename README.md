@@ -1,7 +1,7 @@
 # Hi there, I'm Shin! 👋
 
 ### ⚡ A Little About Me
-- 🔭 Student Intern at **DPWH Catanduanes**
+- 🔭 Gradwaiting student at **CatSU**
 - 🌱 I’m currently learning **Full Stack Development** (Focusing on React & Node.js)
 - 💬 Ask me about **Web Development, UI/UX, or tech trends**
 - 📫 Reach me at: [lescycaadlawon.tech@gmail.com](mailto:lescycaadlawon.tech@gmail.com)
