@@ -1,4 +1,4 @@
-# Hi there, I'm Shin! 👋
+# Hi there, I'm Lescy! 👋
 
 ### ⚡ A Little About Me
 - 🔭 Gradwaiting student at **CatSU**
