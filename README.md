@@ -1,7 +1,7 @@
 # Hi there, I'm Lescy! 👋
 
 ### ⚡ A Little About Me
-- 🔭 Gradwaiting student at **CatSU**
+- 🔭 Recent Graduate of BS Information Technology @ **CatSU**
 - 🌱 I’m currently learning **Full Stack Development** (Focusing on React & Node.js)
 - 💬 Ask me about **Web Development, UI/UX, or tech trends**
 - 📫 Reach me at: [lescycaadlawon.dev@gmail.com](mailto:lescycaadlawon.tech@gmail.com)
