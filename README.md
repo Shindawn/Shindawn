@@ -1,10 +1,10 @@
 # Hi there, I'm Lescy! 👋
 
 ### ⚡ A Little About Me
- 🔭 Recent Graduate of BS Information Technology @ **CatSU**
- 🌱 I’m currently learning **Full Stack Development** (Focusing on React & Node.js)
- 💬 Ask me about **Web Development, UI/UX, or tech trends**
- 📫 Reach me at: [lescycaadlawon.dev@gmail.com](mailto:lescycaadlawon.tech@gmail.com)
+ - 🔭 Recent Graduate of BS Information Technology @ **CatSU**
+ - 🌱 I’m currently learning **Full Stack Development** (Focusing on React & Node.js)
+ - 💬 Ask me about **Web Development, UI/UX, or tech trends**
+ - 📫 Reach me at: [lescycaadlawon.dev@gmail.com](mailto:lescycaadlawon.tech@gmail.com)
 
 ### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
